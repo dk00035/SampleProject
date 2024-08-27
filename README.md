@@ -6,6 +6,8 @@ this code needs work
 
 # Dog
 ** This is bold text **
+*italics*
+[this is text to show hyperlink as] (youtube.com)
 ## Anatomy
 ### Head
 
